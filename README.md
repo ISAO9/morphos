@@ -116,13 +116,13 @@ An extended multi-system dataset incorporating FitzHugh–Nagumo patterns (720 s
 If you use this code or dataset in your research, please cite:
 
 ```bibtex
-@article{kurosawa2026physanet,
-  title   = {PhysaNet-GNN: A \textit{Physarum polycephalum}-Inspired Graph Neural
-             Network for Turing Pattern Classification},
-  author  = {Kurosawa, Isao},
-  journal = {Neural Networks},
-  year    = {2026},
-  note    = {Under review}
+@misc{kurosawa2026physanet,
+  title         = {PhysaNet-GNN: A {\it Physarum polycephalum}-Inspired Graph Neural
+                   Network for Turing Pattern Classification},
+  author        = {Kurosawa, Isao},
+  year          = {2026},
+  howpublished  = {IVXA. \url{https://github.com/ivxa/morphos}},
+  note          = {Under review at Neural Networks (Elsevier)}
 }
 ```
 
