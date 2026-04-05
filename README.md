@@ -121,7 +121,7 @@ If you use this code or dataset in your research, please cite:
                    Network for Turing Pattern Classification},
   author        = {Kurosawa, Isao},
   year          = {2026},
-  howpublished  = {IVXA. \url{https://github.com/ivxa/morphos}},
+  howpublished  = {IVXA. \url{https://github.com/ISAO9/morphos}},
   note          = {Under review at Neural Networks (Elsevier)}
 }
 ```
